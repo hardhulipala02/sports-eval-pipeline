@@ -1,0 +1,14 @@
+[
+  {
+    "question": "marcel_reed_passing",
+    "ground_truth": "Marcel Reed passing line is Over/Under 235.5 Passing Yards (-110). Sharp consensus is Over 235.5 (-112). Season average is 243.7 YPG."
+  },
+  {
+    "question": "texas_am_vs_texas_spread",
+    "ground_truth": "Texas A&M is -2.5 point favorite against Texas with 68% public betting money on A&M. Game total points is 54.5."
+  },
+  {
+    "question": "texas_am_team_total",
+    "ground_truth": "Texas A&M team total points is Over/Under 27.5 (-115). Sharp consensus is Over 27.5."
+  }
+]
